@@ -1,2 +1,11 @@
-# WinForms_Spreadsheet
-A Custom WinForms Spreadhseet Application inspired by Microsoft Excel
+# CptS321-HWs
+
+## Name
+Andrew J. Lefors 
+WSU SID # 11333729
+
+## Description
+
+
+## License
+
